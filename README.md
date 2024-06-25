@@ -25,4 +25,7 @@
 
 <p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=6000&pause=1000&color=4A1977E6&random=false&width=435&lines=More+to+come..+stay+tuned!" alt="Typing SVG" /></a>
+
+<img width=200px src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+
 </p>
