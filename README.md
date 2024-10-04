@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently enrolled in the Get Coding program
-- 🌱 I’ve recently started the ReactJS module!
+- 🌱 I’ve recently finished the ReactJS module & I am looking forward to learning about backend development soon!
 - 🤓 I’m looking forward to learning as much as I can
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a dog that looks like a cow 🐮
